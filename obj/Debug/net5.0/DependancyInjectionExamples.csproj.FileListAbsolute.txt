@@ -1,0 +1,16 @@
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.exe
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.deps.json
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.runtimeconfig.json
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.runtimeconfig.dev.json
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.dll
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\ref\DependancyInjectionExamples.dll
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\bin\Debug\net5.0\DependancyInjectionExamples.pdb
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.csprojAssemblyReference.cache
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.AssemblyInfoInputs.cache
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.AssemblyInfo.cs
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.csproj.CoreCompileInputs.cache
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.dll
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\ref\DependancyInjectionExamples.dll
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.pdb
+G:\Work\personaldev\DependancyInjectionExamples\DependancyInjectionExamples\obj\Debug\net5.0\DependancyInjectionExamples.genruntimeconfig.cache
